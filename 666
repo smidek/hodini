@@ -2,7 +2,6 @@
   target: microbit
   platform: microbit
   home_url: https://makecode.microbit.org/
-theme: jekyll-theme-slate
-include:
-  - assets
-  - README.md
+[ 🐛 Typ: Chyba ] 🐛 Chyba: SUBSTR po aktualizaci nefunguje #7324
+[ uzavřeno ] 🐛 Chyba: formátování richtext – podtržení a přeškrtnutí nepřetrvává #7318
+[ uzavřeno ] 🐛 Chyba: Rozšířený záznam UX #…
