@@ -1,4 +1,4 @@
-makecode:
+ README.md README.md
   target: microbit
   platform: microbit
   home_url: https://makecode.microbit.org/
